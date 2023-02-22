@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Deck-Of-Cards/static/css/main.ac023a71.css",
+    "main.js": "/React-Deck-Of-Cards/static/js/main.45d68fb2.js",
+    "static/js/787.79425bb4.chunk.js": "/React-Deck-Of-Cards/static/js/787.79425bb4.chunk.js",
+    "index.html": "/React-Deck-Of-Cards/index.html",
+    "main.ac023a71.css.map": "/React-Deck-Of-Cards/static/css/main.ac023a71.css.map",
+    "main.45d68fb2.js.map": "/React-Deck-Of-Cards/static/js/main.45d68fb2.js.map",
+    "787.79425bb4.chunk.js.map": "/React-Deck-Of-Cards/static/js/787.79425bb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac023a71.css",
+    "static/js/main.45d68fb2.js"
+  ]
+}
